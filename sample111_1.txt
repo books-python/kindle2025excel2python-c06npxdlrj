@@ -1,0 +1,4 @@
+#sample111_1
+import pandas as pd
+val = [[1,2,3],[4,5,6]]
+pd.DataFrame(val,)
